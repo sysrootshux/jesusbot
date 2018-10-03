@@ -177,4 +177,4 @@ client.on("message", async message => {
 });
 
 
-client.login(config.token);
+client.login("NDk2MDcxMDkwNzgzOTExOTM2.DpWSMQ.8Ib9_XCzgaJ_IOCveiIDnK-B7gI");
